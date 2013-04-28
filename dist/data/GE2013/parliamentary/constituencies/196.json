@@ -1,0 +1,23 @@
+{
+  "state": "Sarawak",
+  "code": "196",
+  "name": "Stampin",
+  "note": "",
+  "registered_voters": "84820",
+  "vote_cast": "",
+  "spoilt_votes": "",
+  "location": {
+    "lat": 1.517301,
+    "lng": 110.34816799999999
+  },
+  "candidates": [{
+      "name": "Soo Lina"
+    }, {
+      "name": "Yong Khoon Hian"
+    }, {
+      "name": "Julian Tan Kok Ping",
+      "party": {
+        "name": "DAP"
+      }
+    }]
+}
