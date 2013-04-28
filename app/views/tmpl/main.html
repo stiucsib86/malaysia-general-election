@@ -1,0 +1,49 @@
+<div ng-controller="MainCtrl">
+
+  <div ng-controller="GMapCtrl">
+    <div id="map-canvas" class="map-canvas"></div>
+  </div>
+
+  <div class="container main-area">
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="visible-desktop">
+            <form class="well form-search">
+              <div>
+                <input ng-model="search" type="text" class="input-block-level search-query" placeholder="Search for constituency">
+              </div>
+              <div>
+                &nbsp;
+              </div>
+              <ul class="nav nav-list well">
+                <li ng-repeat="pconstituency in parliamentary_constituencies | filter:search">
+                  <a ng-href="{{'#/details/' + pconstituency.code}}">
+                    {{pconstituency.code}} - {{pconstituency.constituency}} ({{pconstituency.state}})
+                  </a>
+                </li>
+              </ul>
+            </form>
+          </div>
+        </div>
+        <div class="span9">
+          <ul class="breadcrumb">
+            <li ng-repeat="item in _breadcrumb">
+              <a href="#" ng-show="$index < _breadcrumb.length - 1">
+                {{item.name}}
+              </a> 
+              <span ng-hide="$index < _breadcrumb.length - 1">
+                {{item.name}}
+              </span>
+              <span class="divider" ng-show="$index < _breadcrumb.length - 1">/</span>
+            </li>
+          </ul>
+
+          <div ng-view></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

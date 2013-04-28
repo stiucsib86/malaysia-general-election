@@ -1,0 +1,83 @@
+<div>
+  <div>
+    <dl class="dl-horizontal">
+      <dt>Constituency</dt>
+      <dd>
+        P{{constituency.code}} - {{constituency.name}}
+      </dd>
+      <dt>State</dt>
+      <dd>
+        {{constituency.state}}
+      </dd>
+      <dt>Registered Voters</dt>
+      <dd>
+        {{constituency.registered_voters || '-'}}
+      </dd>
+      <dt>Total Vote Cast</dt>
+      <dd>
+        {{constituency.vote_cast || '-'}}
+      </dd>
+      <dt>Total Spoilt Votes</dt>
+      <dd>
+        {{constituency.spoilt_votes || '-'}}
+      </dd>
+      <dt></dt>
+      <dd>
+
+      </dd>
+      <dt></dt>
+      <dd>
+
+      </dd>
+    </dl>
+  </div>
+
+  <div>
+
+    <h3>Candidates</h3>
+
+    <div ng-show="constituency.candidates">
+      <div ng-repeat="candidate in constituency.candidates">
+        <div class="well">
+          <div class="row-fluid">
+            <div class="span9">
+              <div class="row-fluid">
+                <div class="span3">
+                  <img ng-src="{{candidate.image || image_placeholder.profile }}" class="img-polaroid" />
+                </div>
+                <div class="span9">
+
+                  <table class="table table-condensed">
+                    <tr>
+                      <td style="width: 40%"><b>Name</b></td>
+                      <td style="width: 60%">{{candidate.name}}</td>
+                    </tr>
+                    <tr>
+                      <td><b>Number of votes</b></td>
+                      <td>{{candidate.number_of_votes || '-'}}</td>
+                    </tr>
+                  </table>
+
+                </div>
+              </div>
+            </div><div class="span3">
+              <div style="text-align: center;">
+                <img ng-src="{{candidate.party.image || image_placeholder.party }}" class="img-polaroid" />
+                <div>
+                  {{candidate.party.name}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div ng-hide="constituency.candidates">
+      <div class="well">
+        No data yet. Help by <a href="https://github.com/stiucsib86/malaysia-general-election">submitting a pull-request</a>.
+      </div>
+    </div>
+  </div>
+</div>
