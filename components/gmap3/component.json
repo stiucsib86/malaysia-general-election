@@ -1,0 +1,9 @@
+{
+  "name": "gmap3",
+  "version": "0.0.0",
+  "commit": "a0fa9d6c5df717c9a45eb65a6ba99715c605ce60",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbdemonte/gmap3.git"
+  }
+}

@@ -1,0 +1,2662 @@
+[
+  {
+    "state": "Perlis",
+    "code": "1",
+    "constituency": "Padang Besar",
+    "note": "",
+    "registered_voters": "41974",
+    "id": 0,
+    "location": {
+      "lat": 6.656006,
+      "lng": 100.31132200000002
+    }
+  },
+  {
+    "state": "Perlis",
+    "code": "2",
+    "constituency": "Kangar",
+    "note": "",
+    "registered_voters": "51207",
+    "id": 1,
+    "location": {
+      "lat": 6.445514999999999,
+      "lng": 100.20023100000003
+    }
+  },
+  {
+    "state": "Perlis",
+    "code": "3",
+    "constituency": "Arau",
+    "note": "",
+    "registered_voters": "43876",
+    "id": 2,
+    "location": {
+      "lat": 6.414992000000001,
+      "lng": 100.28234090000001
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "4",
+    "constituency": "Langkawi",
+    "note": "",
+    "registered_voters": "37536",
+    "id": 3,
+    "location": {
+      "lat": 6.3233,
+      "lng": 99.85472389999995
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "5",
+    "constituency": "Jerlun",
+    "note": "",
+    "registered_voters": "52383",
+    "id": 4,
+    "location": {
+      "lat": 6.2103939,
+      "lng": 100.26702309999996
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "6",
+    "constituency": "Kubang Pasu",
+    "note": "",
+    "registered_voters": "65550",
+    "id": 5,
+    "location": {
+      "lat": 6.3453517,
+      "lng": 100.39471159999994
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "7",
+    "constituency": "Padang Terap",
+    "note": "",
+    "registered_voters": "41960",
+    "id": 6,
+    "location": {
+      "lat": 6.2560908,
+      "lng": 100.66471009999998
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "8",
+    "constituency": "Pokok Sena",
+    "note": "",
+    "registered_voters": "80714",
+    "id": 7,
+    "location": {
+      "lat": 6.153744,
+      "lng": 100.53427209999995
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "9",
+    "constituency": "Alor Setar",
+    "note": "",
+    "registered_voters": "69009",
+    "id": 8,
+    "location": {
+      "lat": 6.119359,
+      "lng": 100.36769000000004
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "10",
+    "constituency": "Kuala Kedah",
+    "note": "",
+    "registered_voters": "95328",
+    "id": 9,
+    "location": {
+      "lat": 6.099918,
+      "lng": 100.30267120000008
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "11",
+    "constituency": "Pendang",
+    "note": "",
+    "registered_voters": "70135",
+    "id": 10,
+    "location": {
+      "lat": 5.982450999999999,
+      "lng": 100.45936299999994
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "12",
+    "constituency": "Jerai",
+    "note": "",
+    "registered_voters": "74410",
+    "id": 11,
+    "location": {
+      "lat": 5.640699,
+      "lng": 100.48643100000004
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "13",
+    "constituency": "Sik",
+    "note": "",
+    "registered_voters": "46786",
+    "id": 12,
+    "location": {
+      "lat": 5.805079000000001,
+      "lng": 100.74716779999994
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "14",
+    "constituency": "Merbok",
+    "note": "",
+    "registered_voters": "85908",
+    "id": 13,
+    "location": {
+      "lat": 5.724557,
+      "lng": 100.36883409999996
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "15",
+    "constituency": "Sungai Petani",
+    "note": "",
+    "registered_voters": "93176",
+    "id": 14,
+    "location": {
+      "lat": 5.649024,
+      "lng": 100.49513000000002
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "16",
+    "constituency": "Baling",
+    "note": "",
+    "registered_voters": "93168",
+    "id": 15,
+    "location": {
+      "lat": 5.664394,
+      "lng": 100.90157799999997
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "17",
+    "constituency": "Padang Serai",
+    "note": "",
+    "registered_voters": "74095",
+    "id": 16,
+    "location": {
+      "lat": 5.515607999999999,
+      "lng": 100.55074790000003
+    }
+  },
+  {
+    "state": "Kedah",
+    "code": "18",
+    "constituency": "Kulim-Bandar Baharu",
+    "note": "",
+    "registered_voters": "60910",
+    "id": 17,
+    "location": {
+      "lat": 5.38945,
+      "lng": 100.56343100000004
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "19",
+    "constituency": "Tumpat",
+    "note": "",
+    "registered_voters": "98632",
+    "id": 18,
+    "location": {
+      "lat": 6.195073000000001,
+      "lng": 102.16573599999992
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "20",
+    "constituency": "Pengkalan Chepa",
+    "note": "",
+    "registered_voters": "64409",
+    "id": 19,
+    "location": {
+      "lat": 6.1681044,
+      "lng": 102.29351159999999
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "21",
+    "constituency": "Kota Bharu",
+    "note": "",
+    "registered_voters": "81268",
+    "id": 20,
+    "location": {
+      "lat": 6.122013,
+      "lng": 102.25226700000007
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "22",
+    "constituency": "Pasir Mas",
+    "note": "",
+    "registered_voters": "71956",
+    "id": 21,
+    "location": {
+      "lat": 6.042681,
+      "lng": 102.1391122
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "23",
+    "constituency": "Rantau Panjang",
+    "note": "",
+    "registered_voters": "52903",
+    "id": 22,
+    "location": {
+      "lat": 6.016793,
+      "lng": 101.98251500000003
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "24",
+    "constituency": "Kubang Kerian",
+    "note": "",
+    "registered_voters": "65390",
+    "id": 23,
+    "location": {
+      "lat": 6.0869673,
+      "lng": 102.27625290000003
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "25",
+    "constituency": "Bachok",
+    "note": "",
+    "registered_voters": "81566",
+    "id": 24,
+    "location": {
+      "lat": 6.054708000000001,
+      "lng": 102.3867821
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "26",
+    "constituency": "Ketereh",
+    "note": "",
+    "registered_voters": "62217",
+    "id": 25,
+    "location": {
+      "lat": 5.966022,
+      "lng": 102.24506199999996
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "27",
+    "constituency": "Tanah Merah",
+    "note": "",
+    "registered_voters": "58237",
+    "id": 26,
+    "location": {
+      "lat": 5.807429,
+      "lng": 102.15102490000004
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "28",
+    "constituency": "Pasir Puteh",
+    "note": "",
+    "registered_voters": "76259",
+    "id": 27,
+    "location": {
+      "lat": 5.832856,
+      "lng": 102.40528280000001
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "29",
+    "constituency": "Machang",
+    "note": "",
+    "registered_voters": "59226",
+    "id": 28,
+    "location": {
+      "lat": 5.761049,
+      "lng": 102.21924890000003
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "30",
+    "constituency": "Jeli",
+    "note": "",
+    "registered_voters": "43224",
+    "id": 29,
+    "location": {
+      "lat": 5.695488,
+      "lng": 101.83889090000002
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "31",
+    "constituency": "Kuala Krai",
+    "note": "",
+    "registered_voters": "63101",
+    "id": 30,
+    "location": {
+      "lat": 5.533928,
+      "lng": 102.1996418
+    }
+  },
+  {
+    "state": "Kelantan",
+    "code": "32",
+    "constituency": "Gua Musang",
+    "note": "",
+    "registered_voters": "40176",
+    "id": 31,
+    "location": {
+      "lat": 4.860047,
+      "lng": 101.9633609
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "33",
+    "constituency": "Besut",
+    "note": "",
+    "registered_voters": "",
+    "id": 32,
+    "location": {
+      "lat": 5.6365378,
+      "lng": 102.48392119999994
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "34",
+    "constituency": "Setiu",
+    "note": "",
+    "registered_voters": "",
+    "id": 33,
+    "location": {
+      "lat": 5.4662149,
+      "lng": 102.75948470000003
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "35",
+    "constituency": "Kuala Nerus",
+    "note": "",
+    "registered_voters": "",
+    "id": 34,
+    "location": {
+      "lat": 5.3333333,
+      "lng": 102.75
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "36",
+    "constituency": "Kuala Terengganu",
+    "note": "",
+    "registered_voters": "",
+    "id": 35,
+    "location": {
+      "lat": 5.311737,
+      "lng": 103.119912
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "37",
+    "constituency": "Marang",
+    "note": "",
+    "registered_voters": "",
+    "id": 36,
+    "location": {
+      "lat": 5.202293000000001,
+      "lng": 103.20033710000007
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "38",
+    "constituency": "Hulu Terengganu",
+    "note": "",
+    "registered_voters": "",
+    "id": 37,
+    "location": {
+      "lat": 5.0177609,
+      "lng": 102.7135121
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "39",
+    "constituency": "Dungun",
+    "note": "",
+    "registered_voters": "",
+    "id": 38,
+    "location": {
+      "lat": 4.756459,
+      "lng": 103.39968309999995
+    }
+  },
+  {
+    "state": "Terengganu",
+    "code": "40",
+    "constituency": "Kemaman",
+    "note": "",
+    "registered_voters": "",
+    "id": 39,
+    "location": {
+      "lat": 4.360889999999999,
+      "lng": 103.26634790000003
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "41",
+    "constituency": "Kepala Batas",
+    "note": "",
+    "registered_voters": "",
+    "id": 40,
+    "location": {
+      "lat": 5.521015999999999,
+      "lng": 100.43681689999994
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "42",
+    "constituency": "Tasek Gelugor",
+    "note": "",
+    "registered_voters": "",
+    "id": 41,
+    "location": {
+      "lat": 5.493628999999999,
+      "lng": 100.50488889999997
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "43",
+    "constituency": "Bagan",
+    "note": "",
+    "registered_voters": "",
+    "id": 42,
+    "location": {
+      "lat": 5.3704487,
+      "lng": 100.23758229999999
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "44",
+    "constituency": "Permatang Pauh",
+    "note": "",
+    "registered_voters": "",
+    "id": 43,
+    "location": {
+      "lat": 5.405016,
+      "lng": 100.41413110000008
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "45",
+    "constituency": "Bukit Mertajam",
+    "note": "",
+    "registered_voters": "",
+    "id": 44,
+    "location": {
+      "lat": 5.353762,
+      "lng": 100.47442610000007
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "46",
+    "constituency": "Batu Kawan",
+    "note": "",
+    "registered_voters": "",
+    "id": 45,
+    "location": {
+      "lat": 5.271822999999999,
+      "lng": 100.43274999999994
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "47",
+    "constituency": "Nibong Tebal",
+    "note": "",
+    "registered_voters": "",
+    "id": 46,
+    "location": {
+      "lat": 5.167945,
+      "lng": 100.47832310000001
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "48",
+    "constituency": "Bukit Bendera",
+    "note": "",
+    "registered_voters": "",
+    "id": 47,
+    "location": {
+      "lat": 5.4247529,
+      "lng": 100.2691264
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "49",
+    "constituency": "Tanjong",
+    "note": "",
+    "registered_voters": "",
+    "id": 48,
+    "location": {
+      "lat": 5.3704487,
+      "lng": 100.23758229999999
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "50",
+    "constituency": "Jelutong",
+    "note": "",
+    "registered_voters": "",
+    "id": 49,
+    "location": {
+      "lat": 5.3704487,
+      "lng": 100.23758229999999
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "51",
+    "constituency": "Bukit Gelugor",
+    "note": "",
+    "registered_voters": "",
+    "id": 50,
+    "location": {
+      "lat": 5.3704487,
+      "lng": 100.23758229999999
+    }
+  },
+  {
+    "state": "Penang",
+    "code": "52",
+    "constituency": "Bayan Baru",
+    "note": "",
+    "registered_voters": "",
+    "id": 51,
+    "location": {
+      "lat": 5.3296584,
+      "lng": 100.28665560000002
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "53",
+    "constituency": "Balik Pulau",
+    "note": "",
+    "registered_voters": "",
+    "id": 52,
+    "location": {
+      "lat": 5.3704487,
+      "lng": 100.23758229999999
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "54",
+    "constituency": "Gerik",
+    "note": "",
+    "registered_voters": "",
+    "id": 53,
+    "location": {
+      "lat": 5.437869999999999,
+      "lng": 101.13981590000003
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "55",
+    "constituency": "Lenggong",
+    "note": "",
+    "registered_voters": "",
+    "id": 54,
+    "location": {
+      "lat": 5.128477,
+      "lng": 100.99287500000003
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "56",
+    "constituency": "Larut",
+    "note": "",
+    "registered_voters": "",
+    "id": 55,
+    "location": {
+      "lat": 4.854099,
+      "lng": 100.73757490000003
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "57",
+    "constituency": "Parit Buntar",
+    "note": "",
+    "registered_voters": "",
+    "id": 56,
+    "location": {
+      "lat": 5.10537,
+      "lng": 100.48539200000005
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "58",
+    "constituency": "Bagan Serai",
+    "note": "",
+    "registered_voters": "",
+    "id": 57,
+    "location": {
+      "lat": 5.047676,
+      "lng": 100.63606900000002
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "59",
+    "constituency": "Bukit Gantang",
+    "note": "",
+    "registered_voters": "",
+    "id": 58,
+    "location": {
+      "lat": 4.601839,
+      "lng": 101.07655499999998
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "60",
+    "constituency": "Taiping",
+    "note": "",
+    "registered_voters": "",
+    "id": 59,
+    "location": {
+      "lat": 4.854099,
+      "lng": 100.73757490000003
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "61",
+    "constituency": "Padang Rengas",
+    "note": "",
+    "registered_voters": "",
+    "id": 60,
+    "location": {
+      "lat": 4.781256,
+      "lng": 100.84661389999997
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "62",
+    "constituency": "Sungai Siput",
+    "note": "",
+    "registered_voters": "",
+    "id": 61,
+    "location": {
+      "lat": 4.822372,
+      "lng": 101.08906309999998
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "63",
+    "constituency": "Tambun",
+    "note": "",
+    "registered_voters": "",
+    "id": 62,
+    "location": {
+      "lat": 4.634374999999999,
+      "lng": 101.127296
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "64",
+    "constituency": "Ipoh Timor",
+    "note": "",
+    "registered_voters": "",
+    "id": 63,
+    "location": {
+      "lat": 4.570480799999999,
+      "lng": 101.09804450000001
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "65",
+    "constituency": "Ipoh Barat",
+    "note": "",
+    "registered_voters": "",
+    "id": 64,
+    "location": {
+      "lat": 4.570480799999999,
+      "lng": 101.09804450000001
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "66",
+    "constituency": "Batu Gajah",
+    "note": "",
+    "registered_voters": "",
+    "id": 65,
+    "location": {
+      "lat": 4.469316,
+      "lng": 101.03968800000007
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "67",
+    "constituency": "Kuala Kangsar",
+    "note": "",
+    "registered_voters": "",
+    "id": 66,
+    "location": {
+      "lat": 4.772697,
+      "lng": 100.94030709999993
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "68",
+    "constituency": "Beruas",
+    "note": "",
+    "registered_voters": "",
+    "id": 67,
+    "location": {
+      "lat": 4.478994999999999,
+      "lng": 100.7859532
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "69",
+    "constituency": "Parit",
+    "note": "",
+    "registered_voters": "",
+    "id": 68,
+    "location": {
+      "lat": 4.491474999999999,
+      "lng": 100.91897889999996
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "70",
+    "constituency": "Kampar",
+    "note": "",
+    "registered_voters": "",
+    "id": 69,
+    "location": {
+      "lat": 4.311012,
+      "lng": 101.15187190000006
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "71",
+    "constituency": "Gopeng",
+    "note": "",
+    "registered_voters": "",
+    "id": 70,
+    "location": {
+      "lat": 4.461933999999999,
+      "lng": 101.16606200000001
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "72",
+    "constituency": "Tapah",
+    "note": "",
+    "registered_voters": "",
+    "id": 71,
+    "location": {
+      "lat": 4.203994,
+      "lng": 101.26097319999997
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "73",
+    "constituency": "Pasir Salak",
+    "note": "",
+    "registered_voters": "",
+    "id": 72,
+    "location": {
+      "lat": 4.173347,
+      "lng": 100.94685900000002
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "74",
+    "constituency": "Lumut",
+    "note": "",
+    "registered_voters": "",
+    "id": 73,
+    "location": {
+      "lat": 4.210885999999999,
+      "lng": 100.64136310000004
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "75",
+    "constituency": "Bagan Datok",
+    "note": "",
+    "registered_voters": "",
+    "id": 74,
+    "location": {
+      "lat": 3.964729,
+      "lng": 100.75295699999992
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "76",
+    "constituency": "Telok Intan",
+    "note": "",
+    "registered_voters": "",
+    "id": 75,
+    "location": {
+      "lat": 4.012414,
+      "lng": 101.01800589999993
+    }
+  },
+  {
+    "state": "Perak",
+    "code": "77",
+    "constituency": "Tanjong Malim",
+    "note": "",
+    "registered_voters": "",
+    "id": 76,
+    "location": {
+      "lat": 3.6913,
+      "lng": 101.5235629
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "78",
+    "constituency": "Cameron Highlands",
+    "note": "",
+    "registered_voters": "",
+    "id": 77,
+    "location": {
+      "lat": 4.5120166,
+      "lng": 101.47935000000007
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "79",
+    "constituency": "Lipis",
+    "note": "",
+    "registered_voters": "",
+    "id": 78,
+    "location": {
+      "lat": 4.3827796,
+      "lng": 101.9804613
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "80",
+    "constituency": "Raub",
+    "note": "",
+    "registered_voters": "",
+    "id": 79,
+    "location": {
+      "lat": 3.792596,
+      "lng": 101.85839390000001
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "81",
+    "constituency": "Jerantut",
+    "note": "",
+    "registered_voters": "",
+    "id": 80,
+    "location": {
+      "lat": 3.946838,
+      "lng": 102.37988089999999
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "82",
+    "constituency": "Indera Mahkota",
+    "note": "",
+    "registered_voters": "",
+    "id": 81,
+    "location": {
+      "lat": 3.934788,
+      "lng": 102.355095
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "83",
+    "constituency": "Kuantan",
+    "note": "",
+    "registered_voters": "",
+    "id": 82,
+    "location": {
+      "lat": 3.824973,
+      "lng": 103.32389990000001
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "84",
+    "constituency": "Paya Besar",
+    "note": "",
+    "registered_voters": "",
+    "id": 83,
+    "location": {
+      "lat": 3.7755393,
+      "lng": 103.2757272
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "85",
+    "constituency": "Pekan",
+    "note": "",
+    "registered_voters": "",
+    "id": 84,
+    "location": {
+      "lat": 3.500721,
+      "lng": 103.39012120000007
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "86",
+    "constituency": "Maran",
+    "note": "",
+    "registered_voters": "",
+    "id": 85,
+    "location": {
+      "lat": 3.584086,
+      "lng": 102.78296210000008
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "87",
+    "constituency": "Kuala Krau",
+    "note": "",
+    "registered_voters": "",
+    "id": 86,
+    "location": {
+      "lat": 3.619202,
+      "lng": 102.38617299999999
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "88",
+    "constituency": "Temerloh",
+    "note": "",
+    "registered_voters": "",
+    "id": 87,
+    "location": {
+      "lat": 3.453159,
+      "lng": 102.42448990000003
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "89",
+    "constituency": "Bentong",
+    "note": "",
+    "registered_voters": "",
+    "id": 88,
+    "location": {
+      "lat": 3.524933,
+      "lng": 101.90973489999999
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "90",
+    "constituency": "Bera",
+    "note": "",
+    "registered_voters": "",
+    "id": 89,
+    "location": {
+      "lat": 3.2595438,
+      "lng": 102.52980279999997
+    }
+  },
+  {
+    "state": "Pahang",
+    "code": "91",
+    "constituency": "Rompin",
+    "note": "",
+    "registered_voters": "",
+    "id": 90,
+    "location": {
+      "lat": 2.694524,
+      "lng": 102.52639399999998
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "92",
+    "constituency": "Sabak Bernam",
+    "note": "",
+    "registered_voters": "",
+    "id": 91,
+    "location": {
+      "lat": 3.731697,
+      "lng": 100.93837099999996
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "93",
+    "constituency": "Sungai Besar",
+    "note": "",
+    "registered_voters": "",
+    "id": 92,
+    "location": {
+      "lat": 3.663678,
+      "lng": 101.01589200000001
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "94",
+    "constituency": "Hulu Selangor",
+    "note": "",
+    "registered_voters": "",
+    "id": 93,
+    "location": {
+      "lat": 3.5875169,
+      "lng": 101.61577729999999
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "95",
+    "constituency": "Tanjong Karang",
+    "note": "",
+    "registered_voters": "",
+    "id": 94,
+    "location": {
+      "lat": 3.424191,
+      "lng": 101.1845452
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "96",
+    "constituency": "Kuala Selangor",
+    "note": "",
+    "registered_voters": "",
+    "id": 95,
+    "location": {
+      "lat": 3.334976,
+      "lng": 101.25802299999998
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "97",
+    "constituency": "Selayang",
+    "note": "",
+    "registered_voters": "",
+    "id": 96,
+    "location": {
+      "lat": 3.2676932,
+      "lng": 101.65844800000002
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "98",
+    "constituency": "Gombak",
+    "note": "",
+    "registered_voters": "",
+    "id": 97,
+    "location": {
+      "lat": 3.2288598,
+      "lng": 101.71109950000005
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "99",
+    "constituency": "Ampang",
+    "note": "",
+    "registered_voters": "",
+    "id": 98,
+    "location": {
+      "lat": 3.1588,
+      "lng": 101.7574459
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "100",
+    "constituency": "Pandan",
+    "note": "",
+    "registered_voters": "",
+    "id": 99,
+    "location": {
+      "lat": 2.906165,
+      "lng": 101.46095000000003
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "101",
+    "constituency": "Hulu Langat",
+    "note": "",
+    "registered_voters": "",
+    "id": 100,
+    "location": {
+      "lat": 3.111642,
+      "lng": 101.81315990000007
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "102",
+    "constituency": "Serdang",
+    "note": "",
+    "registered_voters": "",
+    "id": 101,
+    "location": {
+      "lat": 3.0230556,
+      "lng": 101.71583329999999
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "103",
+    "constituency": "Puchong",
+    "note": "",
+    "registered_voters": "",
+    "id": 102,
+    "location": {
+      "lat": 3.013086,
+      "lng": 101.61380409999992
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "104",
+    "constituency": "Kelana Jaya",
+    "note": "",
+    "registered_voters": "",
+    "id": 103,
+    "location": {
+      "lat": 3.11277,
+      "lng": 101.60415999999998
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "105",
+    "constituency": "Petaling Jaya Selatan",
+    "note": "",
+    "registered_voters": "",
+    "id": 104,
+    "location": {
+      "lat": 3.184467,
+      "lng": 101.59501799999998
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "106",
+    "constituency": "Petaling Jaya Utara",
+    "note": "",
+    "registered_voters": "",
+    "id": 105,
+    "location": {
+      "lat": 3.106881,
+      "lng": 101.64013899999998
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "107",
+    "constituency": "Subang",
+    "note": "",
+    "registered_voters": "",
+    "id": 106,
+    "location": {
+      "lat": 3.130442,
+      "lng": 101.55182620000005
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "108",
+    "constituency": "Shah Alam",
+    "note": "",
+    "registered_voters": "",
+    "id": 107,
+    "location": {
+      "lat": 3.090607,
+      "lng": 101.5295969
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "109",
+    "constituency": "Kapar",
+    "note": "",
+    "registered_voters": "",
+    "id": 108,
+    "location": {
+      "lat": 3.139796,
+      "lng": 101.36783590000005
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "110",
+    "constituency": "Klang",
+    "note": "",
+    "registered_voters": "",
+    "id": 109,
+    "location": {
+      "lat": 3.043061,
+      "lng": 101.44065709999995
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "111",
+    "constituency": "Kota Raja",
+    "note": "",
+    "registered_voters": "",
+    "id": 110,
+    "location": {
+      "lat": 3.028627,
+      "lng": 101.46694300000001
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "112",
+    "constituency": "Kuala Langat",
+    "note": "",
+    "registered_voters": "",
+    "id": 111,
+    "location": {
+      "lat": 2.8388413,
+      "lng": 101.57028130000003
+    }
+  },
+  {
+    "state": "Selangor",
+    "code": "113",
+    "constituency": "Sepang;",
+    "note": "",
+    "registered_voters": "",
+    "id": 112,
+    "location": {
+      "lat": 2.819684,
+      "lng": 101.7336841
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "114",
+    "constituency": "Kepong",
+    "note": "",
+    "registered_voters": "",
+    "id": 113,
+    "location": {
+      "lat": 3.2025,
+      "lng": 101.6372222
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "115",
+    "constituency": "Batu",
+    "note": "",
+    "registered_voters": "",
+    "id": 114,
+    "location": {
+      "lat": 3.1319197,
+      "lng": 101.68405889999997
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "116",
+    "constituency": "Wangsa Maju",
+    "note": "",
+    "registered_voters": "",
+    "id": 115,
+    "location": {
+      "lat": 3.1989667,
+      "lng": 101.73957080000002
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "117",
+    "constituency": "Segambut",
+    "note": "",
+    "registered_voters": "",
+    "id": 116,
+    "location": {
+      "lat": 3.1923335,
+      "lng": 101.67409840000005
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "118",
+    "constituency": "Setiawangsa",
+    "note": "",
+    "registered_voters": "",
+    "id": 117,
+    "location": {
+      "lat": 3.1756,
+      "lng": 101.73569999999995
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "119",
+    "constituency": "Titiwangsa",
+    "note": "",
+    "registered_voters": "",
+    "id": 118,
+    "location": {
+      "lat": 3.1772003,
+      "lng": 101.7054061
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "120",
+    "constituency": "Bukit Bintang",
+    "note": "",
+    "registered_voters": "",
+    "id": 119,
+    "location": {
+      "lat": 3.1451753,
+      "lng": 101.70825279999997
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "121",
+    "constituency": "Lembah Pantai",
+    "note": "",
+    "registered_voters": "",
+    "id": 120,
+    "location": {
+      "lat": 3.106846,
+      "lng": 101.67326000000003
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "122",
+    "constituency": "Seputeh",
+    "note": "",
+    "registered_voters": "",
+    "id": 121,
+    "location": {
+      "lat": 3.1117038,
+      "lng": 101.67765559999998
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "123",
+    "constituency": "Cheras",
+    "note": "",
+    "registered_voters": "",
+    "id": 122,
+    "location": {
+      "lat": 3.1056379,
+      "lng": 101.72533420000002
+    }
+  },
+  {
+    "state": "Federal Territory of Kuala Lumpur",
+    "code": "124",
+    "constituency": "Bandar Tun Razak",
+    "note": "",
+    "registered_voters": "",
+    "id": 123,
+    "location": {
+      "lat": 3.0860103,
+      "lng": 101.72248709999997
+    }
+  },
+  {
+    "state": "Federal Territory of Putrajaya",
+    "code": "125",
+    "constituency": "Putrajaya",
+    "note": "",
+    "registered_voters": "",
+    "id": 124,
+    "location": {
+      "lat": 2.926361,
+      "lng": 101.69644500000004
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "126",
+    "constituency": "Jelebu",
+    "note": "",
+    "registered_voters": "",
+    "id": 125,
+    "location": {
+      "lat": 3.0680388,
+      "lng": 102.11754040000005
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "127",
+    "constituency": "Jempol",
+    "note": "",
+    "registered_voters": "",
+    "id": 126,
+    "location": {
+      "lat": 2.7897581,
+      "lng": 102.52980279999997
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "128",
+    "constituency": "Seremban",
+    "note": "",
+    "registered_voters": "",
+    "id": 127,
+    "location": {
+      "lat": 2.718592,
+      "lng": 101.94898790000002
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "129",
+    "constituency": "Kuala Pilah",
+    "note": "",
+    "registered_voters": "",
+    "id": 128,
+    "location": {
+      "lat": 2.748964,
+      "lng": 102.25021100000004
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "130",
+    "constituency": "Rasah",
+    "note": "",
+    "registered_voters": "",
+    "id": 129,
+    "location": {
+      "lat": 2.693973,
+      "lng": 101.93589500000007
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "131",
+    "constituency": "Rembau",
+    "note": "",
+    "registered_voters": "",
+    "id": 130,
+    "location": {
+      "lat": 2.57966,
+      "lng": 102.1023788
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "132",
+    "constituency": "Telok Kemang",
+    "note": "",
+    "registered_voters": "",
+    "id": 131,
+    "location": {
+      "lat": 2.4666667,
+      "lng": 101.85000000000002
+    }
+  },
+  {
+    "state": "Negeri Sembilan",
+    "code": "133",
+    "constituency": "Tampin",
+    "note": "",
+    "registered_voters": "",
+    "id": 132,
+    "location": {
+      "lat": 2.489791,
+      "lng": 102.23774500000002
+    }
+  },
+  {
+    "state": "Malacca",
+    "code": "134",
+    "constituency": "Masjid Tanah",
+    "note": "",
+    "registered_voters": "",
+    "id": 133,
+    "location": {
+      "lat": 2.350388,
+      "lng": 102.10778600000003
+    }
+  },
+  {
+    "state": "Malacca",
+    "code": "135",
+    "constituency": "Alor Gajah",
+    "note": "",
+    "registered_voters": "",
+    "id": 134,
+    "location": {
+      "lat": 2.373973,
+      "lng": 102.2114239
+    }
+  },
+  {
+    "state": "Malacca",
+    "code": "136",
+    "constituency": "Tangga Batu",
+    "note": "",
+    "registered_voters": "",
+    "id": 135,
+    "location": {
+      "lat": 2.2502526,
+      "lng": 102.15826900000002
+    }
+  },
+  {
+    "state": "Malacca",
+    "code": "137",
+    "constituency": "Bukit Katil",
+    "note": "",
+    "registered_voters": "",
+    "id": 136,
+    "location": {
+      "lat": 2.25,
+      "lng": 102.31666670000004
+    }
+  },
+  {
+    "state": "Malacca",
+    "code": "138",
+    "constituency": "Kota Melaka",
+    "note": "",
+    "registered_voters": "",
+    "id": 137,
+    "location": {
+      "lat": 2.205685,
+      "lng": 102.25615500000004
+    }
+  },
+  {
+    "state": "Malacca",
+    "code": "139",
+    "constituency": "Jasin",
+    "note": "",
+    "registered_voters": "",
+    "id": 138,
+    "location": {
+      "lat": 2.304762,
+      "lng": 102.42577400000005
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "140",
+    "constituency": "Segamat",
+    "note": "",
+    "registered_voters": "",
+    "id": 139,
+    "location": {
+      "lat": 2.510518,
+      "lng": 102.83985789999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "141",
+    "constituency": "Sekijang",
+    "note": "",
+    "registered_voters": "",
+    "id": 140,
+    "location": {
+      "lat": 2.497665,
+      "lng": 102.95412799999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "142",
+    "constituency": "Labis",
+    "note": "",
+    "registered_voters": "",
+    "id": 141,
+    "location": {
+      "lat": 2.394981,
+      "lng": 103.01667910000003
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "143",
+    "constituency": "Pagoh",
+    "note": "",
+    "registered_voters": "",
+    "id": 142,
+    "location": {
+      "lat": 2.148384,
+      "lng": 102.76899700000001
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "144",
+    "constituency": "Ledang",
+    "note": "",
+    "registered_voters": "",
+    "id": 143,
+    "location": {
+      "lat": 1.513315,
+      "lng": 103.69409399999995
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "145",
+    "constituency": "Bakri",
+    "note": "",
+    "registered_voters": "",
+    "id": 144,
+    "location": {
+      "lat": 2.03877,
+      "lng": 102.65735199999995
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "146",
+    "constituency": "Muar",
+    "note": "",
+    "registered_voters": "",
+    "id": 145,
+    "location": {
+      "lat": 2.039272,
+      "lng": 102.56909180000002
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "147",
+    "constituency": "Parit Sulong",
+    "note": "",
+    "registered_voters": "",
+    "id": 146,
+    "location": {
+      "lat": 1.974753,
+      "lng": 102.88929099999996
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "148",
+    "constituency": "Ayer Hitam",
+    "note": "",
+    "registered_voters": "",
+    "id": 147,
+    "location": {
+      "lat": 1.929564,
+      "lng": 103.18617500000005
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "149",
+    "constituency": "Sri Gading",
+    "note": "",
+    "registered_voters": "",
+    "id": 148,
+    "location": {
+      "lat": 1.8536228,
+      "lng": 103.03281349999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "150",
+    "constituency": "Batu Pahat",
+    "note": "",
+    "registered_voters": "",
+    "id": 149,
+    "location": {
+      "lat": 1.843577,
+      "lng": 102.94705799999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "151",
+    "constituency": "Simpang Renggam",
+    "note": "",
+    "registered_voters": "",
+    "id": 150,
+    "location": {
+      "lat": 1.828364,
+      "lng": 103.31076819999998
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "152",
+    "constituency": "Kluang",
+    "note": "",
+    "registered_voters": "",
+    "id": 151,
+    "location": {
+      "lat": 2.028788,
+      "lng": 103.31538009999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "153",
+    "constituency": "Sembrong",
+    "note": "",
+    "registered_voters": "",
+    "id": 152,
+    "location": {
+      "lat": 2.0002703,
+      "lng": 103.17115109999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "154",
+    "constituency": "Mersing",
+    "note": "",
+    "registered_voters": "",
+    "id": 153,
+    "location": {
+      "lat": 2.436106,
+      "lng": 103.83122589999994
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "155",
+    "constituency": "Tenggara",
+    "note": "",
+    "registered_voters": "",
+    "id": 154,
+    "location": {
+      "lat": 1.8666667,
+      "lng": 103.6166667
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "156",
+    "constituency": "Kota Tinggi",
+    "note": "",
+    "registered_voters": "",
+    "id": 155,
+    "location": {
+      "lat": 1.732867,
+      "lng": 103.90141189999997
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "157",
+    "constituency": "Pengerang",
+    "note": "",
+    "registered_voters": "",
+    "id": 156,
+    "location": {
+      "lat": 1.356738,
+      "lng": 104.12942290000001
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "158",
+    "constituency": "Tebrau",
+    "note": "",
+    "registered_voters": "",
+    "id": 157,
+    "location": {
+      "lat": 1.49327,
+      "lng": 103.76645600000006
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "159",
+    "constituency": "Pasir Gudang",
+    "note": "",
+    "registered_voters": "",
+    "id": 158,
+    "location": {
+      "lat": 1.467852,
+      "lng": 103.90264879999995
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "160",
+    "constituency": "Johor Bahru",
+    "note": "",
+    "registered_voters": "",
+    "id": 159,
+    "location": {
+      "lat": 1.46343,
+      "lng": 103.75471489999995
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "161",
+    "constituency": "Pulai",
+    "note": "",
+    "registered_voters": "",
+    "id": 160,
+    "location": {
+      "lat": 1.5541879,
+      "lng": 103.59480299999996
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "162",
+    "constituency": "Gelang Patah",
+    "note": "",
+    "registered_voters": "",
+    "id": 161,
+    "location": {
+      "lat": 1.436825,
+      "lng": 103.60205710000002
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "163",
+    "constituency": "Kulai",
+    "note": "",
+    "registered_voters": "",
+    "id": 162,
+    "location": {
+      "lat": 1.65182,
+      "lng": 103.60367780000001
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "164",
+    "constituency": "Pontian",
+    "note": "",
+    "registered_voters": "",
+    "id": 163,
+    "location": {
+      "lat": 1.486822,
+      "lng": 103.39884499999994
+    }
+  },
+  {
+    "state": "Johor",
+    "code": "165",
+    "constituency": "Tanjong Piai",
+    "note": "",
+    "registered_voters": "",
+    "id": 164,
+    "location": {
+      "lat": 1.2661111,
+      "lng": 103.51083330000006
+    }
+  },
+  {
+    "state": "Federal Territory of Labuan",
+    "code": "166",
+    "constituency": "Labuan",
+    "note": "",
+    "registered_voters": "",
+    "id": 165,
+    "location": {
+      "lat": 5.291322,
+      "lng": 115.24590899999998
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "167",
+    "constituency": "Kudat",
+    "note": "",
+    "registered_voters": "",
+    "id": 166,
+    "location": {
+      "lat": 6.828546999999999,
+      "lng": 116.72412409999993
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "168",
+    "constituency": "Kota Marudu",
+    "note": "",
+    "registered_voters": "",
+    "id": 167,
+    "location": {
+      "lat": 6.485246999999999,
+      "lng": 116.73284620000004
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "169",
+    "constituency": "Kota Belud",
+    "note": "",
+    "registered_voters": "",
+    "id": 168,
+    "location": {
+      "lat": 6.364833,
+      "lng": 116.447629
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "170",
+    "constituency": "Tuaran",
+    "note": "",
+    "registered_voters": "",
+    "id": 169,
+    "location": {
+      "lat": 6.168561,
+      "lng": 116.23483399999998
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "171",
+    "constituency": "Sepanggar",
+    "note": "",
+    "registered_voters": "",
+    "id": 170,
+    "location": {
+      "lat": 6.051943,
+      "lng": 116.15911800000003
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "172",
+    "constituency": "Kota Kinabalu",
+    "note": "",
+    "registered_voters": "",
+    "id": 171,
+    "location": {
+      "lat": 5.976474,
+      "lng": 116.11577699999998
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "173",
+    "constituency": "Putatan",
+    "note": "",
+    "registered_voters": "",
+    "id": 172,
+    "location": {
+      "lat": 5.880204,
+      "lng": 116.04985899999997
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "174",
+    "constituency": "Penampang",
+    "note": "",
+    "registered_voters": "",
+    "id": 173,
+    "location": {
+      "lat": 5.879359,
+      "lng": 116.10398480000003
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "175",
+    "constituency": "Papar",
+    "note": "",
+    "registered_voters": "",
+    "id": 174,
+    "location": {
+      "lat": 5.606407,
+      "lng": 115.96247500000004
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "176",
+    "constituency": "Kimanis",
+    "note": "",
+    "registered_voters": "",
+    "id": 175,
+    "location": {
+      "lat": 5.562577500000001,
+      "lng": 115.96687550000001
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "177",
+    "constituency": "Beaufort",
+    "note": "",
+    "registered_voters": "",
+    "id": 176,
+    "location": {
+      "lat": 5.347493,
+      "lng": 115.72731220000003
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "178",
+    "constituency": "Sipitang",
+    "note": "",
+    "registered_voters": "",
+    "id": 177,
+    "location": {
+      "lat": 5.020164,
+      "lng": 115.58107910000001
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "179",
+    "constituency": "Ranau",
+    "note": "",
+    "registered_voters": "",
+    "id": 178,
+    "location": {
+      "lat": 5.937050999999999,
+      "lng": 116.66948509999997
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "180",
+    "constituency": "Keningau",
+    "note": "",
+    "registered_voters": "",
+    "id": 179,
+    "location": {
+      "lat": 5.264971,
+      "lng": 116.32825690000004
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "181",
+    "constituency": "Tenom",
+    "note": "",
+    "registered_voters": "",
+    "id": 180,
+    "location": {
+      "lat": 4.987223,
+      "lng": 115.92408309999996
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "182",
+    "constituency": "Pensiangan",
+    "note": "",
+    "registered_voters": "",
+    "id": 181,
+    "location": {
+      "lat": 4.55,
+      "lng": 116.31666670000004
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "183",
+    "constituency": "Beluran",
+    "note": "",
+    "registered_voters": "",
+    "id": 182,
+    "location": {
+      "lat": 5.716767,
+      "lng": 117.4374742
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "184",
+    "constituency": "Libaran",
+    "note": "",
+    "registered_voters": "",
+    "id": 183,
+    "location": {
+      "lat": 6.1151934,
+      "lng": 118.01714489999995
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "185",
+    "constituency": "Batu Sapi",
+    "note": "",
+    "registered_voters": "",
+    "id": 184,
+    "location": {
+      "lat": 5.796666699999999,
+      "lng": 118.03972220000003
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "186",
+    "constituency": "Sandakan",
+    "note": "",
+    "registered_voters": "",
+    "id": 185,
+    "location": {
+      "lat": 5.84561,
+      "lng": 118.05705609999995
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "187",
+    "constituency": "Kinabatangan",
+    "note": "",
+    "registered_voters": "",
+    "id": 186,
+    "location": {
+      "lat": 5.4172738,
+      "lng": 118.39294169999994
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "188",
+    "constituency": "Silam",
+    "note": "",
+    "registered_voters": "",
+    "id": 187,
+    "location": {
+      "lat": 4.956944399999999,
+      "lng": 118.16555560000006
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "189",
+    "constituency": "Semporna",
+    "note": "",
+    "registered_voters": "",
+    "id": 188,
+    "location": {
+      "lat": 4.436335,
+      "lng": 118.53184209999995
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "190",
+    "constituency": "Tawau",
+    "note": "",
+    "registered_voters": "",
+    "id": 189,
+    "location": {
+      "lat": 4.282457,
+      "lng": 117.91478699999993
+    }
+  },
+  {
+    "state": "Sabah",
+    "code": "191",
+    "constituency": "Kalabakan",
+    "note": "",
+    "registered_voters": "",
+    "id": 190,
+    "location": {
+      "lat": 4.411678999999999,
+      "lng": 117.49269900000002
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "192",
+    "constituency": "Mas Gading",
+    "note": "",
+    "registered_voters": "",
+    "id": 191,
+    "location": {
+      "lat": 1.5442819,
+      "lng": 110.37352250000004
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "193",
+    "constituency": "Santubong",
+    "note": "",
+    "registered_voters": "",
+    "id": 192,
+    "location": {
+      "lat": 1.6799926,
+      "lng": 110.33832849999999
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "194",
+    "constituency": "Petra Jaya",
+    "note": "",
+    "registered_voters": "",
+    "id": 193,
+    "location": {
+      "lat": 1.596746,
+      "lng": 110.33386029999997
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "195",
+    "constituency": "Bandar Kuching",
+    "note": "",
+    "registered_voters": "",
+    "id": 194,
+    "location": {
+      "lat": 1.53705,
+      "lng": 110.36773900000003
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "196",
+    "constituency": "Stampin",
+    "note": "",
+    "registered_voters": "",
+    "id": 195,
+    "location": {
+      "lat": 1.517301,
+      "lng": 110.34816799999999
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "197",
+    "constituency": "Kota Samarahan",
+    "note": "",
+    "registered_voters": "",
+    "id": 196,
+    "location": {
+      "lat": 1.461149,
+      "lng": 110.43119019999995
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "198",
+    "constituency": "Mambong",
+    "note": "",
+    "registered_voters": "",
+    "id": 197,
+    "location": {
+      "lat": 1.374244,
+      "lng": 110.35940299999993
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "199",
+    "constituency": "Serian",
+    "note": "",
+    "registered_voters": "",
+    "id": 198,
+    "location": {
+      "lat": 1.172728,
+      "lng": 110.56387900000004
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "200",
+    "constituency": "Batang Sadong",
+    "note": "",
+    "registered_voters": "",
+    "id": 199,
+    "location": {
+      "lat": 1.1590565,
+      "lng": 110.57145259999993
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "201",
+    "constituency": "Batang Lupar",
+    "note": "",
+    "registered_voters": "",
+    "id": 200,
+    "location": {
+      "lat": 1.4279184,
+      "lng": 111.1056539
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "202",
+    "constituency": "Sri Aman",
+    "note": "",
+    "registered_voters": "",
+    "id": 201,
+    "location": {
+      "lat": 1.23358,
+      "lng": 111.46374220000007
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "203",
+    "constituency": "Lubok Antu",
+    "note": "",
+    "registered_voters": "",
+    "id": 202,
+    "location": {
+      "lat": 1.217503,
+      "lng": 111.976538
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "204",
+    "constituency": "Betong",
+    "note": "",
+    "registered_voters": "",
+    "id": 203,
+    "location": {
+      "lat": 1.419595,
+      "lng": 111.5959388
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "205",
+    "constituency": "Saratok",
+    "note": "",
+    "registered_voters": "",
+    "id": 204,
+    "location": {
+      "lat": 1.7362,
+      "lng": 111.35283909999998
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "206",
+    "constituency": "Tanjung Manis",
+    "note": "",
+    "registered_voters": "",
+    "id": 205,
+    "location": {
+      "lat": 2.177022,
+      "lng": 111.20146399999999
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "207",
+    "constituency": "Igan",
+    "note": "(New constituency; carved out of Kuala Rajang)",
+    "registered_voters": "",
+    "id": 206,
+    "location": {
+      "lat": 2.823991,
+      "lng": 111.71089899999993
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "208",
+    "constituency": "Sarikei",
+    "note": "",
+    "registered_voters": "",
+    "id": 207,
+    "location": {
+      "lat": 2.117813,
+      "lng": 111.52121110000007
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "209",
+    "constituency": "Julau",
+    "note": "",
+    "registered_voters": "",
+    "id": 208,
+    "location": {
+      "lat": 1.782991,
+      "lng": 111.96987190000004
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "210",
+    "constituency": "Kanowit",
+    "note": "",
+    "registered_voters": "",
+    "id": 209,
+    "location": {
+      "lat": 1.906414,
+      "lng": 112.23707179999997
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "211",
+    "constituency": "Lanang",
+    "note": "",
+    "registered_voters": "",
+    "id": 210,
+    "location": {
+      "lat": 2.263694,
+      "lng": 111.84540100000004
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "212",
+    "constituency": "Sibu",
+    "note": "",
+    "registered_voters": "",
+    "id": 211,
+    "location": {
+      "lat": 2.310033,
+      "lng": 111.84004119999997
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "213",
+    "constituency": "Mukah",
+    "note": "",
+    "registered_voters": "",
+    "id": 212,
+    "location": {
+      "lat": 2.502668,
+      "lng": 112.31566989999999
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "214",
+    "constituency": "Selangau",
+    "note": "",
+    "registered_voters": "",
+    "id": 213,
+    "location": {
+      "lat": 2.5245627,
+      "lng": 112.32558080000001
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "215",
+    "constituency": "Kapit",
+    "note": "",
+    "registered_voters": "",
+    "id": 214,
+    "location": {
+      "lat": 1.909782,
+      "lng": 113.63559520000001
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "216",
+    "constituency": "Hulu Rajang",
+    "note": "",
+    "registered_voters": "",
+    "id": 215
+  },
+  {
+    "state": "Sarawak",
+    "code": "217",
+    "constituency": "Bintulu",
+    "note": "",
+    "registered_voters": "",
+    "id": 216,
+    "location": {
+      "lat": 3.19057,
+      "lng": 113.09011090000001
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "218",
+    "constituency": "Sibuti",
+    "note": " (New constituency; carved out of Miri)",
+    "registered_voters": "",
+    "id": 217,
+    "location": {
+      "lat": 4.045211,
+      "lng": 113.79989599999999
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "219",
+    "constituency": "Miri",
+    "note": "",
+    "registered_voters": "",
+    "id": 218,
+    "location": {
+      "lat": 4.333131,
+      "lng": 113.99486000000002
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "220",
+    "constituency": "Baram",
+    "note": "",
+    "registered_voters": "",
+    "id": 219,
+    "location": {
+      "lat": 1.352571,
+      "lng": 111.51759379999999
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "221",
+    "constituency": "Limbang",
+    "note": "(New constituency; carved out of Bukit Mas); ",
+    "registered_voters": "",
+    "id": 220,
+    "location": {
+      "lat": 4.346647,
+      "lng": 115.18362790000003
+    }
+  },
+  {
+    "state": "Sarawak",
+    "code": "222",
+    "constituency": "Lawas",
+    "note": "(formerly Bukit Mas)",
+    "registered_voters": "",
+    "id": 221,
+    "location": {
+      "lat": 4.82114,
+      "lng": 115.42739510000001
+    }
+  }
+]
